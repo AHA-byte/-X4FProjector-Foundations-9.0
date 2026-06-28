@@ -1,5 +1,9 @@
 # X4FProjector
 
+Fork of the original repository [bno1/X4FProjector](https://github.com/bno1/X4FProjector).
+The original project’s last commit was seven years ago, and it no longer works with X4 Foundations 9.0.
+This fork updates the tool for 9.0 compatibility.
+
 A command-line tool that reads X4 Foundations game files (.cat and .dat files),
 extracts raw stats about various game objects and outputs the data into files
 that are easy for humans or other programs and scripts to read.
