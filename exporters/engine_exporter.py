@@ -13,6 +13,7 @@ def tabular_generator(engines):
         'makerrace',
         # 'description', # every value is "No information available"
         'size',
+        'source_path',
         'hull',
         'hull_integrated',
         'hull_threshold',

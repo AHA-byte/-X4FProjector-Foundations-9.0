@@ -17,6 +17,7 @@ def tabular_generator(weapons):
         'makerrace',
         # 'description', # every value is "No information available"
         'size',
+        'source_path',
         'heat_overhead',
         'heat_cooldelay',
         'heat_coolrate',

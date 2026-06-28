@@ -9,7 +9,8 @@
     "name": "ARG L Shield Generator Mk1",
     "recharge_delay": 15.0,
     "recharge_rate": 270.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_l_standard_01_mk1_macro.xml"
   },
   "shield_arg_l_standard_01_mk2_macro": {
     "capacity": 65688,
@@ -21,7 +22,8 @@
     "name": "ARG L Shield Generator Mk2",
     "recharge_delay": 15.0,
     "recharge_rate": 405.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_l_standard_01_mk2_macro.xml"
   },
   "shield_arg_m_standard_01_mk1_macro": {
     "capacity": 5750,
@@ -33,7 +35,8 @@
     "name": "ARG M Shield Generator Mk1",
     "recharge_delay": 12.5,
     "recharge_rate": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_m_standard_01_mk1_macro.xml"
   },
   "shield_arg_m_standard_01_mk2_macro": {
     "capacity": 7475,
@@ -45,7 +48,8 @@
     "name": "ARG M Shield Generator Mk2",
     "recharge_delay": 12.5,
     "recharge_rate": 140.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_m_standard_01_mk2_macro.xml"
   },
   "shield_arg_m_standard_02_mk1_macro": {
     "capacity": 5750,
@@ -57,7 +61,8 @@
     "name": "ARG M Shield Generator Mk1",
     "recharge_delay": 12.5,
     "recharge_rate": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_m_standard_02_mk1_macro.xml"
   },
   "shield_arg_m_standard_02_mk2_macro": {
     "capacity": 7475,
@@ -69,7 +74,8 @@
     "name": "ARG M Shield Generator Mk2",
     "recharge_delay": 12.5,
     "recharge_rate": 140.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_m_standard_02_mk2_macro.xml"
   },
   "shield_arg_s_combattutorial_01_mk1_macro": {
     "capacity": 1000,
@@ -81,7 +87,8 @@
     "name": "ARG S Shield Generator Mk1",
     "recharge_delay": 5.0,
     "recharge_rate": 100.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_s_combattutorial_01_mk1_macro.xml"
   },
   "shield_arg_s_racer_01_mk1_macro": {
     "capacity": 1196,
@@ -93,7 +100,8 @@
     "name": "ARG S Shield Generator Mk1",
     "recharge_delay": 15.0,
     "recharge_rate": 50.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_arg_s_racer_01_mk1_macro.xml"
   },
   "shield_arg_s_standard_01_mk1_macro": {
     "capacity": 1196,
@@ -105,7 +113,8 @@
     "name": "ARG S Shield Generator Mk1",
     "recharge_delay": 15.0,
     "recharge_rate": 50.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_s_standard_01_mk1_macro.xml"
   },
   "shield_arg_s_standard_01_mk2_macro": {
     "capacity": 1380,
@@ -117,7 +126,8 @@
     "name": "ARG S Shield Generator Mk2",
     "recharge_delay": 15.0,
     "recharge_rate": 78.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_s_standard_01_mk2_macro.xml"
   },
   "shield_arg_s_standard_01_mk3_macro": {
     "capacity": 1955,
@@ -129,7 +139,8 @@
     "name": "ARG S Shield Generator Mk3",
     "recharge_delay": 15.0,
     "recharge_rate": 120.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_s_standard_01_mk3_macro.xml"
   },
   "shield_arg_xl_standard_01_mk1_macro": {
     "capacity": 148900,
@@ -141,7 +152,8 @@
     "name": "ARG XL Shield Generator Mk1",
     "recharge_delay": 15.0,
     "recharge_rate": 590.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "assets/props/surfaceelements/macros/shield_arg_xl_standard_01_mk1_macro.xml"
   },
   "shield_bor_l_standard_01_mk1_macro": {
     "capacity": 50400,
@@ -153,7 +165,8 @@
     "name": "BOR L Shield Generator Mk1",
     "recharge_delay": 10.5,
     "recharge_rate": 300.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_l_standard_01_mk1_macro.xml"
   },
   "shield_bor_l_standard_01_mk2_macro": {
     "capacity": 61690,
@@ -165,7 +178,8 @@
     "name": "BOR L Shield Generator Mk2",
     "recharge_delay": 10.5,
     "recharge_rate": 365.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_l_standard_01_mk2_macro.xml"
   },
   "shield_bor_l_standard_01_mk3_macro": {
     "capacity": 82656,
@@ -177,7 +191,8 @@
     "name": "BOR L Shield Generator Mk3",
     "recharge_delay": 10.5,
     "recharge_rate": 594.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_l_standard_01_mk3_macro.xml"
   },
   "shield_bor_m_standard_01_mk1_macro": {
     "capacity": 5250,
@@ -189,7 +204,8 @@
     "name": "BOR M Shield Generator Mk1",
     "recharge_delay": 8.8,
     "recharge_rate": 95.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_m_standard_01_mk1_macro.xml"
   },
   "shield_bor_m_standard_01_mk2_macro": {
     "capacity": 6825,
@@ -201,7 +217,8 @@
     "name": "BOR M Shield Generator Mk2",
     "recharge_delay": 8.8,
     "recharge_rate": 131.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_m_standard_01_mk2_macro.xml"
   },
   "shield_bor_m_standard_01_mk3_macro": {
     "capacity": 8400,
@@ -213,7 +230,8 @@
     "name": "BOR M Shield Generator Mk3",
     "recharge_delay": 8.8,
     "recharge_rate": 178.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_m_standard_01_mk3_macro.xml"
   },
   "shield_bor_m_standard_02_mk1_macro": {
     "capacity": 5250,
@@ -225,7 +243,8 @@
     "name": "BOR M Shield Generator Mk1",
     "recharge_delay": 8.8,
     "recharge_rate": 95.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_m_standard_02_mk1_macro.xml"
   },
   "shield_bor_m_standard_02_mk2_macro": {
     "capacity": 6825,
@@ -237,7 +256,8 @@
     "name": "BOR M Shield Generator Mk2",
     "recharge_delay": 8.8,
     "recharge_rate": 131.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_m_standard_02_mk2_macro.xml"
   },
   "shield_bor_m_standard_02_mk3_macro": {
     "capacity": 8400,
@@ -249,7 +269,8 @@
     "name": "BOR M Shield Generator Mk3",
     "recharge_delay": 8.8,
     "recharge_rate": 178.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_m_standard_02_mk3_macro.xml"
   },
   "shield_bor_s_standard_01_mk1_macro": {
     "capacity": 1050,
@@ -261,7 +282,8 @@
     "name": "BOR S Shield Generator Mk1",
     "recharge_delay": 10.5,
     "recharge_rate": 50.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_s_standard_01_mk1_macro.xml"
   },
   "shield_bor_s_standard_01_mk2_macro": {
     "capacity": 1260,
@@ -273,7 +295,8 @@
     "name": "BOR S Shield Generator Mk2",
     "recharge_delay": 10.5,
     "recharge_rate": 75.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_s_standard_01_mk2_macro.xml"
   },
   "shield_bor_s_standard_01_mk3_macro": {
     "capacity": 1738,
@@ -285,7 +308,8 @@
     "name": "BOR S Shield Generator Mk3",
     "recharge_delay": 10.5,
     "recharge_rate": 115.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_s_standard_01_mk3_macro.xml"
   },
   "shield_bor_xl_standard_01_mk1_macro": {
     "capacity": 135955,
@@ -297,7 +321,8 @@
     "name": "BOR XL Shield Generator Mk1",
     "recharge_delay": 10.5,
     "recharge_rate": 572.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_xl_standard_01_mk1_macro.xml"
   },
   "shield_bor_xl_standard_01_mk2_macro": {
     "capacity": 160427,
@@ -309,7 +334,8 @@
     "name": "BOR XL Shield Generator Mk2",
     "recharge_delay": 10.5,
     "recharge_rate": 767.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "extensions/ego_dlc_boron/assets/props/surfaceelements/macros/shield_bor_xl_standard_01_mk2_macro.xml"
   },
   "shield_gen_m_corvette_01_mk1_macro": {
     "capacity": 8600,
@@ -321,7 +347,8 @@
     "name": "Envoy M Shield Generator",
     "recharge_delay": 10.0,
     "recharge_rate": 110.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_mini_02/assets/props/surfaceelements/macros/shield_gen_m_corvette_01_mk1_macro.xml"
   },
   "shield_gen_m_yacht_01_mk1_macro": {
     "capacity": 38600,
@@ -333,7 +360,8 @@
     "name": "Astrid M Shield Generator",
     "recharge_delay": 11.2,
     "recharge_rate": 340.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_pirate/assets/props/surfaceelements/macros/shield_gen_m_yacht_01_mk1_macro.xml"
   },
   "shield_gen_s_racer_01_mk1_macro": {
     "capacity": 1196,
@@ -345,7 +373,8 @@
     "name": "S Racing Shield Generator Mk1",
     "recharge_delay": 15.0,
     "recharge_rate": 50.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_gen_s_racer_01_mk1_macro.xml"
   },
   "shield_kha_l_standard_01_mk1_macro": {
     "capacity": 135000,
@@ -357,7 +386,8 @@
     "name": "KHA L Shield Generator Mk1",
     "recharge_delay": 8.0,
     "recharge_rate": 240.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_kha_l_standard_01_mk1_macro.xml"
   },
   "shield_kha_m_standard_01_mk1_macro": {
     "capacity": 4800,
@@ -369,7 +399,8 @@
     "name": "KHA M Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 52.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_kha_m_standard_01_mk1_macro.xml"
   },
   "shield_kha_m_standard_02_mk1_macro": {
     "capacity": 4800,
@@ -381,7 +412,8 @@
     "name": "KHA M Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 52.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_kha_m_standard_02_mk1_macro.xml"
   },
   "shield_kha_m_standard_03_mk1_macro": {
     "capacity": 4800,
@@ -393,7 +425,8 @@
     "name": "KHA M Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 52.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_kha_m_standard_03_mk1_macro.xml"
   },
   "shield_kha_s_standard_01_mk1_macro": {
     "capacity": 745,
@@ -405,7 +438,8 @@
     "name": "KHA S Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 40.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_kha_s_standard_01_mk1_macro.xml"
   },
   "shield_kha_xl_standard_01_mk1_macro": {
     "capacity": 150000,
@@ -417,7 +451,8 @@
     "name": "KHA XL Shield Generator Mk1",
     "recharge_delay": 8.0,
     "recharge_rate": 400.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "assets/props/surfaceelements/macros/shield_kha_xl_standard_01_mk1_macro.xml"
   },
   "shield_par_l_standard_01_mk1_macro": {
     "capacity": 40320,
@@ -429,7 +464,8 @@
     "name": "PAR L Shield Generator Mk1",
     "recharge_delay": 8.0,
     "recharge_rate": 365.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_l_standard_01_mk1_macro.xml"
   },
   "shield_par_l_standard_01_mk2_macro": {
     "capacity": 48000,
@@ -441,7 +477,8 @@
     "name": "PAR L Shield Generator Mk2",
     "recharge_delay": 8.0,
     "recharge_rate": 530.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_l_standard_01_mk2_macro.xml"
   },
   "shield_par_m_standard_01_mk1_macro": {
     "capacity": 4000,
@@ -453,7 +490,8 @@
     "name": "PAR M Shield Generator Mk1",
     "recharge_delay": 7.6,
     "recharge_rate": 130.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_m_standard_01_mk1_macro.xml"
   },
   "shield_par_m_standard_01_mk2_macro": {
     "capacity": 5400,
@@ -465,7 +503,8 @@
     "name": "PAR M Shield Generator Mk2",
     "recharge_delay": 7.6,
     "recharge_rate": 203.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_m_standard_01_mk2_macro.xml"
   },
   "shield_par_m_standard_02_mk1_macro": {
     "capacity": 4000,
@@ -477,7 +516,8 @@
     "name": "PAR M Shield Generator Mk1",
     "recharge_delay": 7.6,
     "recharge_rate": 130.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_m_standard_02_mk1_macro.xml"
   },
   "shield_par_m_standard_02_mk2_macro": {
     "capacity": 5200,
@@ -489,7 +529,8 @@
     "name": "PAR M Shield Generator Mk2",
     "recharge_delay": 7.6,
     "recharge_rate": 203.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_m_standard_02_mk2_macro.xml"
   },
   "shield_par_s_racer_01_mk1_macro": {
     "capacity": 1289,
@@ -501,7 +542,8 @@
     "name": "PAR S Shield Generator Mk1",
     "recharge_delay": 10.2,
     "recharge_rate": 135.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_par_s_racer_01_mk1_macro.xml"
   },
   "shield_par_s_standard_01_mk1_macro": {
     "capacity": 760,
@@ -513,7 +555,8 @@
     "name": "PAR S Shield Generator Mk1",
     "recharge_delay": 10.0,
     "recharge_rate": 65.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_s_standard_01_mk1_macro.xml"
   },
   "shield_par_s_standard_01_mk2_macro": {
     "capacity": 960,
@@ -525,7 +568,8 @@
     "name": "PAR S Shield Generator Mk2",
     "recharge_delay": 10.0,
     "recharge_rate": 104.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_s_standard_01_mk2_macro.xml"
   },
   "shield_par_s_standard_01_mk3_macro": {
     "capacity": 1360,
@@ -537,7 +581,8 @@
     "name": "PAR S Shield Generator Mk3",
     "recharge_delay": 10.0,
     "recharge_rate": 170.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_s_standard_01_mk3_macro.xml"
   },
   "shield_par_xl_standard_01_mk1_macro": {
     "capacity": 103585,
@@ -549,7 +594,8 @@
     "name": "PAR XL Shield Generator Mk1",
     "recharge_delay": 8.5,
     "recharge_rate": 775.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "assets/props/surfaceelements/macros/shield_par_xl_standard_01_mk1_macro.xml"
   },
   "shield_pir_xl_battleship_01_standard_01_mk1_macro": {
     "capacity": 158600,
@@ -561,7 +607,8 @@
     "name": "Erlking XL Shield Generator",
     "recharge_delay": 18.0,
     "recharge_rate": 680.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "extensions/ego_dlc_pirate/assets/props/surfaceelements/macros/shield_pir_xl_battleship_01_standard_01_mk1_macro.xml"
   },
   "shield_spl_l_standard_01_mk1_macro": {
     "capacity": 38845,
@@ -573,7 +620,8 @@
     "name": "SPL L Shield Generator Mk1",
     "recharge_delay": 3.0,
     "recharge_rate": 220.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_l_standard_01_mk1_macro.xml"
   },
   "shield_spl_l_standard_01_mk2_macro": {
     "capacity": 46886,
@@ -585,7 +633,8 @@
     "name": "SPL L Shield Generator Mk2",
     "recharge_delay": 3.0,
     "recharge_rate": 302.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_l_standard_01_mk2_macro.xml"
   },
   "shield_spl_m_standard_01_mk1_macro": {
     "capacity": 3848,
@@ -597,7 +646,8 @@
     "name": "SPL M Shield Generator Mk1",
     "recharge_delay": 2.0,
     "recharge_rate": 74.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_m_standard_01_mk1_macro.xml"
   },
   "shield_spl_m_standard_01_mk2_macro": {
     "capacity": 4932,
@@ -609,7 +659,8 @@
     "name": "SPL M Shield Generator Mk2",
     "recharge_delay": 2.0,
     "recharge_rate": 112.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_m_standard_01_mk2_macro.xml"
   },
   "shield_spl_m_standard_02_mk1_macro": {
     "capacity": 3848,
@@ -621,7 +672,8 @@
     "name": "SPL M Shield Generator Mk1",
     "recharge_delay": 2.0,
     "recharge_rate": 74.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_m_standard_02_mk1_macro.xml"
   },
   "shield_spl_m_standard_02_mk2_macro": {
     "capacity": 4932,
@@ -633,7 +685,8 @@
     "name": "SPL M Shield Generator Mk2",
     "recharge_delay": 2.0,
     "recharge_rate": 112.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_m_standard_02_mk2_macro.xml"
   },
   "shield_spl_s_standard_01_mk1_macro": {
     "capacity": 740,
@@ -645,7 +698,8 @@
     "name": "SPL S Shield Generator Mk1",
     "recharge_delay": 3.5,
     "recharge_rate": 35.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_s_standard_01_mk1_macro.xml"
   },
   "shield_spl_s_standard_01_mk2_macro": {
     "capacity": 888,
@@ -657,7 +711,8 @@
     "name": "SPL S Shield Generator Mk2",
     "recharge_delay": 3.5,
     "recharge_rate": 54.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_s_standard_01_mk2_macro.xml"
   },
   "shield_spl_s_standard_01_mk3_macro": {
     "capacity": 1258,
@@ -669,7 +724,8 @@
     "name": "SPL S Shield Generator Mk3",
     "recharge_delay": 3.5,
     "recharge_rate": 88.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_s_standard_01_mk3_macro.xml"
   },
   "shield_spl_xl_standard_01_mk1_macro": {
     "capacity": 100800,
@@ -681,7 +737,8 @@
     "name": "SPL XL Shield Generator Mk1",
     "recharge_delay": 3.0,
     "recharge_rate": 454.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "extensions/ego_dlc_split/assets/props/surfaceelements/macros/shield_spl_xl_standard_01_mk1_macro.xml"
   },
   "shield_tel_l_standard_01_mk1_macro": {
     "capacity": 66082,
@@ -693,7 +750,8 @@
     "name": "TEL L Shield Generator Mk1",
     "recharge_delay": 18.0,
     "recharge_rate": 216.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_l_standard_01_mk1_macro.xml"
   },
   "shield_tel_l_standard_01_mk2_macro": {
     "capacity": 78000,
@@ -705,7 +763,8 @@
     "name": "TEL L Shield Generator Mk2",
     "recharge_delay": 18.0,
     "recharge_rate": 305.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_l_standard_01_mk2_macro.xml"
   },
   "shield_tel_m_standard_01_mk1_macro": {
     "capacity": 6500,
@@ -717,7 +776,8 @@
     "name": "TEL M Shield Generator Mk1",
     "recharge_delay": 13.9,
     "recharge_rate": 83.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_m_standard_01_mk1_macro.xml"
   },
   "shield_tel_m_standard_01_mk2_macro": {
     "capacity": 8840,
@@ -729,7 +789,8 @@
     "name": "TEL M Shield Generator Mk2",
     "recharge_delay": 13.9,
     "recharge_rate": 104.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_m_standard_01_mk2_macro.xml"
   },
   "shield_tel_m_standard_02_mk1_macro": {
     "capacity": 6500,
@@ -741,7 +802,8 @@
     "name": "TEL M Shield Generator Mk1",
     "recharge_delay": 13.9,
     "recharge_rate": 83.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_m_standard_02_mk1_macro.xml"
   },
   "shield_tel_m_standard_02_mk2_macro": {
     "capacity": 8840,
@@ -753,7 +815,8 @@
     "name": "TEL M Shield Generator Mk2",
     "recharge_delay": 13.9,
     "recharge_rate": 104.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_m_standard_02_mk2_macro.xml"
   },
   "shield_tel_s_racer_01_mk1_macro": {
     "capacity": 450,
@@ -765,7 +828,8 @@
     "name": "TEL S Shield Generator Mk1",
     "recharge_delay": 2.0,
     "recharge_rate": 150.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_tel_s_racer_01_mk1_macro.xml"
   },
   "shield_tel_s_standard_01_mk1_macro": {
     "capacity": 1300,
@@ -777,7 +841,8 @@
     "name": "TEL S Shield Generator Mk1",
     "recharge_delay": 16.5,
     "recharge_rate": 40.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_s_standard_01_mk1_macro.xml"
   },
   "shield_tel_s_standard_01_mk2_macro": {
     "capacity": 1625,
@@ -789,7 +854,8 @@
     "name": "TEL S Shield Generator Mk2",
     "recharge_delay": 16.5,
     "recharge_rate": 54.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_s_standard_01_mk2_macro.xml"
   },
   "shield_tel_s_standard_01_mk3_macro": {
     "capacity": 2366,
@@ -801,7 +867,8 @@
     "name": "TEL S Shield Generator Mk3",
     "recharge_delay": 16.5,
     "recharge_rate": 84.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_s_standard_01_mk3_macro.xml"
   },
   "shield_tel_xl_standard_01_mk1_macro": {
     "capacity": 181791,
@@ -813,7 +880,8 @@
     "name": "TEL XL Shield Generator Mk1",
     "recharge_delay": 18.0,
     "recharge_rate": 472.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "assets/props/surfaceelements/macros/shield_tel_xl_standard_01_mk1_macro.xml"
   },
   "shield_ter_l_standard_01_mk1_macro": {
     "capacity": 57600,
@@ -825,7 +893,8 @@
     "name": "TER L Shield Generator Mk1",
     "recharge_delay": 19.0,
     "recharge_rate": 292.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_l_standard_01_mk1_macro.xml"
   },
   "shield_ter_l_standard_01_mk2_macro": {
     "capacity": 71424,
@@ -837,7 +906,8 @@
     "name": "TER L Shield Generator Mk2",
     "recharge_delay": 19.0,
     "recharge_rate": 444.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_l_standard_01_mk2_macro.xml"
   },
   "shield_ter_l_standard_01_mk3_macro": {
     "capacity": 86400,
@@ -849,7 +919,8 @@
     "name": "TER L Shield Generator Mk3",
     "recharge_delay": 19.0,
     "recharge_rate": 616.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_l_standard_01_mk3_macro.xml"
   },
   "shield_ter_l_standard_02_mk1_macro": {
     "capacity": 57600,
@@ -861,7 +932,8 @@
     "name": "TER L Frontier Shield Generator Mk1",
     "recharge_delay": 6.2,
     "recharge_rate": 162.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_l_standard_02_mk1_macro.xml"
   },
   "shield_ter_l_standard_02_mk2_macro": {
     "capacity": 71424,
@@ -873,7 +945,8 @@
     "name": "TER L Frontier Shield Generator Mk2",
     "recharge_delay": 6.2,
     "recharge_rate": 227.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_l_standard_02_mk2_macro.xml"
   },
   "shield_ter_l_standard_02_mk3_macro": {
     "capacity": 86400,
@@ -885,7 +958,8 @@
     "name": "TER L Frontier Shield Generator Mk3",
     "recharge_delay": 6.2,
     "recharge_rate": 324.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_l_standard_02_mk3_macro.xml"
   },
   "shield_ter_m_standard_01_mk1_macro": {
     "capacity": 6000,
@@ -897,7 +971,8 @@
     "name": "TER M Shield Generator Mk1",
     "recharge_delay": 15.4,
     "recharge_rate": 115.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_m_standard_01_mk1_macro.xml"
   },
   "shield_ter_m_standard_01_mk2_macro": {
     "capacity": 7800,
@@ -909,7 +984,8 @@
     "name": "TER M Shield Generator Mk2",
     "recharge_delay": 15.4,
     "recharge_rate": 158.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_m_standard_01_mk2_macro.xml"
   },
   "shield_ter_m_standard_01_mk3_macro": {
     "capacity": 9720,
@@ -921,7 +997,8 @@
     "name": "TER M Shield Generator Mk3",
     "recharge_delay": 15.4,
     "recharge_rate": 193.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_m_standard_01_mk3_macro.xml"
   },
   "shield_ter_m_standard_02_mk1_macro": {
     "capacity": 6000,
@@ -933,7 +1010,8 @@
     "name": "TER M Shield Generator Mk1",
     "recharge_delay": 15.4,
     "recharge_rate": 115.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_m_standard_02_mk1_macro.xml"
   },
   "shield_ter_m_standard_02_mk2_macro": {
     "capacity": 7800,
@@ -945,7 +1023,8 @@
     "name": "TER M Shield Generator Mk2",
     "recharge_delay": 15.4,
     "recharge_rate": 158.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_m_standard_02_mk2_macro.xml"
   },
   "shield_ter_m_standard_02_mk3_macro": {
     "capacity": 9720,
@@ -957,7 +1036,8 @@
     "name": "TER M Shield Generator Mk3",
     "recharge_delay": 15.4,
     "recharge_rate": 193.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_m_standard_02_mk3_macro.xml"
   },
   "shield_ter_m_standard_04_mk1_macro": {
     "capacity": 6000,
@@ -969,7 +1049,8 @@
     "name": "TER M Frontier Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 70.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_m_standard_04_mk1_macro.xml"
   },
   "shield_ter_m_standard_04_mk2_macro": {
     "capacity": 7800,
@@ -981,7 +1062,8 @@
     "name": "TER M Frontier Shield Generator Mk2",
     "recharge_delay": 4.0,
     "recharge_rate": 89.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_m_standard_04_mk2_macro.xml"
   },
   "shield_ter_m_standard_04_mk3_macro": {
     "capacity": 9720,
@@ -993,7 +1075,8 @@
     "name": "TER M Frontier Shield Generator Mk3",
     "recharge_delay": 4.0,
     "recharge_rate": 113.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_m_standard_04_mk3_macro.xml"
   },
   "shield_ter_m_virtual_01_mk1_macro": {
     "capacity": 6000,
@@ -1005,7 +1088,8 @@
     "name": "TER M Frontier Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 70.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_m_virtual_01_mk1_macro.xml"
   },
   "shield_ter_m_virtual_01_mk2_macro": {
     "capacity": 7800,
@@ -1017,7 +1101,8 @@
     "name": "TER M Frontier Shield Generator Mk2",
     "recharge_delay": 4.0,
     "recharge_rate": 89.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_m_virtual_01_mk2_macro.xml"
   },
   "shield_ter_m_virtual_01_mk3_macro": {
     "capacity": 9720,
@@ -1029,7 +1114,8 @@
     "name": "TER M Frontier Shield Generator Mk3",
     "recharge_delay": 4.0,
     "recharge_rate": 113.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_m_virtual_01_mk3_macro.xml"
   },
   "shield_ter_s_standard_01_mk1_macro": {
     "capacity": 1200,
@@ -1041,7 +1127,8 @@
     "name": "TER S Shield Generator Mk1",
     "recharge_delay": 18.0,
     "recharge_rate": 63.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_s_standard_01_mk1_macro.xml"
   },
   "shield_ter_s_standard_01_mk2_macro": {
     "capacity": 1440,
@@ -1053,7 +1140,8 @@
     "name": "TER S Shield Generator Mk2",
     "recharge_delay": 18.0,
     "recharge_rate": 93.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_s_standard_01_mk2_macro.xml"
   },
   "shield_ter_s_standard_01_mk3_macro": {
     "capacity": 2100,
@@ -1065,7 +1153,8 @@
     "name": "TER S Shield Generator Mk3",
     "recharge_delay": 18.0,
     "recharge_rate": 144.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_s_standard_01_mk3_macro.xml"
   },
   "shield_ter_s_virtual_01_mk1_macro": {
     "capacity": 1440,
@@ -1077,7 +1166,8 @@
     "name": "TER S Frontier Shield Generator Mk1",
     "recharge_delay": 6.0,
     "recharge_rate": 48.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_s_virtual_01_mk1_macro.xml"
   },
   "shield_ter_s_virtual_01_mk1_story_macro": {
     "capacity": 7500,
@@ -1089,7 +1179,8 @@
     "name": "TER S Frontier Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 450.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_s_virtual_01_mk1_story_macro.xml"
   },
   "shield_ter_s_xperimental_01_mk1_story_macro": {
     "capacity": 7500,
@@ -1101,7 +1192,8 @@
     "name": "TER S Frontier Shield Generator Mk1",
     "recharge_delay": 4.0,
     "recharge_rate": 450.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_s_xperimental_01_mk1_story_macro.xml"
   },
   "shield_ter_s_xperimental_01_mk5_macro": {
     "capacity": 4800,
@@ -1113,7 +1205,8 @@
     "name": "TER S Frontier Shield Generator Mk5",
     "recharge_delay": 9.0,
     "recharge_rate": 400.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_ter_s_xperimental_01_mk5_macro.xml"
   },
   "shield_ter_xl_standard_01_mk1_macro": {
     "capacity": 155377,
@@ -1125,7 +1218,8 @@
     "name": "TER XL Shield Generator Mk1",
     "recharge_delay": 19.0,
     "recharge_rate": 680.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_xl_standard_01_mk1_macro.xml"
   },
   "shield_ter_xl_standard_01_mk2_macro": {
     "capacity": 195775,
@@ -1137,7 +1231,8 @@
     "name": "TER XL Shield Generator Mk2",
     "recharge_delay": 19.0,
     "recharge_rate": 998.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "extensions/ego_dlc_terran/assets/props/surfaceelements/macros/shield_ter_xl_standard_01_mk2_macro.xml"
   },
   "shield_xen_l_standard_01_mk1_macro": {
     "capacity": 45600,
@@ -1149,7 +1244,8 @@
     "name": "XEN L Shield Generator Mk1",
     "recharge_delay": 17.25,
     "recharge_rate": 356.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_l_standard_01_mk1_macro.xml"
   },
   "shield_xen_l_standard_01_mk2_macro": {
     "capacity": 54355,
@@ -1161,7 +1257,8 @@
     "name": "XEN L Shield Generator Mk2",
     "recharge_delay": 17.25,
     "recharge_rate": 552.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_l_standard_01_mk2_macro.xml"
   },
   "shield_xen_l_standard_02_mk1_macro": {
     "capacity": 48000,
@@ -1173,7 +1270,8 @@
     "name": "XEN L Shield Generator Mk1",
     "recharge_delay": 17.25,
     "recharge_rate": 356.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_l_standard_02_mk1_macro.xml"
   },
   "shield_xen_l_standard_02_mk2_macro": {
     "capacity": 54720,
@@ -1185,7 +1283,8 @@
     "name": "XEN L Shield Generator Mk2",
     "recharge_delay": 17.25,
     "recharge_rate": 552.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_l_standard_02_mk2_macro.xml"
   },
   "shield_xen_m_standard_01_mk1_macro": {
     "capacity": 4750,
@@ -1197,7 +1296,8 @@
     "name": "XEN M Shield Generator Mk1",
     "recharge_delay": 15.0,
     "recharge_rate": 132.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_m_standard_01_mk1_macro.xml"
   },
   "shield_xen_m_standard_01_mk2_macro": {
     "capacity": 5662,
@@ -1209,10 +1309,12 @@
     "name": "XEN M Shield Generator Mk2",
     "recharge_delay": 15.0,
     "recharge_rate": 198.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_m_standard_01_mk2_macro.xml"
   },
   "shield_xen_m_standard_02_mk1_macro": {
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_m_standard_02_mk1_macro.xml"
   },
   "shield_xen_m_standard_02_mk2_macro": {
     "capacity": 5662,
@@ -1224,7 +1326,8 @@
     "name": "XEN M Shield Generator Mk2",
     "recharge_delay": 15.0,
     "recharge_rate": 198.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_m_standard_02_mk2_macro.xml"
   },
   "shield_xen_m_standard_04_mk1_macro": {
     "capacity": 4750,
@@ -1236,7 +1339,8 @@
     "name": "XEN M Shield Generator Mk1",
     "recharge_delay": 15.0,
     "recharge_rate": 132.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_m_standard_04_mk1_macro.xml"
   },
   "shield_xen_m_virtual_01_mk1_macro": {
     "capacity": 5662,
@@ -1248,7 +1352,8 @@
     "name": "XEN M Shield Generator Mk1",
     "recharge_delay": 16.0,
     "recharge_rate": 178.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_m_virtual_01_mk1_macro.xml"
   },
   "shield_xen_s_standard_01_mk1_macro": {
     "capacity": 950,
@@ -1260,7 +1365,8 @@
     "name": "XEN S Shield Generator Mk1",
     "recharge_delay": 17.5,
     "recharge_rate": 66.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_s_standard_01_mk1_macro.xml"
   },
   "shield_xen_s_standard_01_mk2_macro": {
     "capacity": 1188,
@@ -1272,7 +1378,8 @@
     "name": "XEN S Shield Generator Mk2",
     "recharge_delay": 17.5,
     "recharge_rate": 99.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_s_standard_01_mk2_macro.xml"
   },
   "shield_xen_s_virtual_01_mk1_macro": {
     "capacity": 1188,
@@ -1284,7 +1391,8 @@
     "name": "XEN S Shield Generator Mk1",
     "recharge_delay": 17.5,
     "recharge_rate": 99.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_s_virtual_01_mk1_macro.xml"
   },
   "shield_xen_xl_mothership_01_mk1_macro": {
     "capacity": 86060,
@@ -1296,7 +1404,8 @@
     "name": "Xenon XL Shield Generator",
     "recharge_delay": 17.55,
     "recharge_rate": 240.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/surfaceelements/macros/shield_xen_xl_mothership_01_mk1_macro.xml"
   },
   "shield_xen_xl_standard_01_mk1_macro": {
     "capacity": 135000,
@@ -1308,7 +1417,8 @@
     "name": "XEN XL Shield Generator Mk1",
     "recharge_delay": 15.25,
     "recharge_rate": 802.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_xl_standard_01_mk1_macro.xml"
   },
   "shield_xen_xl_standard_02_mk1_macro": {
     "capacity": 135000,
@@ -1320,6 +1430,7 @@
     "name": "XEN XL Shield Generator Mk1",
     "recharge_delay": 15.25,
     "recharge_rate": 802.0,
-    "size": "extralarge"
+    "size": "extralarge",
+    "source_path": "assets/props/surfaceelements/macros/shield_xen_xl_standard_02_mk1_macro.xml"
   }
 }

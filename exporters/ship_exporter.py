@@ -18,6 +18,7 @@ def tabular_generator(ships):
         'name',
         'class',
         'type',
+        'source_path',
         'purpose',
         'hull',
         'people',

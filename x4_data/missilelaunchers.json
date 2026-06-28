@@ -48,6 +48,7 @@
     "rotation_accel": 0.0,
     "rotation_speed": 100.0,
     "size": "spacesuit",
+    "source_path": "assets/props/weaponsystems/spacesuit/macros/spacesuit_gen_bomblauncher_01_macro.xml",
     "zoom_delay": 0.0,
     "zoom_factor": 0.0,
     "zoom_time": 0.0
@@ -96,7 +97,8 @@
     "range": 6500,
     "reload_time": 1.2,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_arg_l_dumbfire_01_mk1_macro.xml"
   },
   "turret_arg_l_guided_01_mk1_macro": {
     "ammunition": "guided largeguided",
@@ -142,7 +144,8 @@
     "range": 12000,
     "reload_time": 1.0,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_arg_l_guided_01_mk1_macro.xml"
   },
   "turret_arg_m_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire",
@@ -188,7 +191,8 @@
     "range": 7000,
     "reload_time": 1.5,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_arg_m_dumbfire_01_mk1_macro.xml"
   },
   "turret_arg_m_dumbfire_02_mk1_macro": {
     "ammunition": "dumbfire mediumdumbfire",
@@ -234,7 +238,8 @@
     "range": 5500,
     "reload_time": 0.46,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_arg_m_dumbfire_02_mk1_macro.xml"
   },
   "turret_arg_m_guided_01_mk1_macro": {
     "ammunition": "guided",
@@ -280,7 +285,8 @@
     "range": 4500,
     "reload_time": 2.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_arg_m_guided_01_mk1_macro.xml"
   },
   "turret_arg_m_guided_02_mk1_macro": {
     "ammunition": "guided mediumguided",
@@ -326,7 +332,8 @@
     "range": 12000,
     "reload_time": 17.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_arg_m_guided_02_mk1_macro.xml"
   },
   "turret_par_l_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire largedumbfire",
@@ -372,7 +379,8 @@
     "range": 6500,
     "reload_time": 1.2,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_par_l_dumbfire_01_mk1_macro.xml"
   },
   "turret_par_l_guided_01_mk1_macro": {
     "ammunition": "guided largeguided",
@@ -418,7 +426,8 @@
     "range": 12000,
     "reload_time": 1.0,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_par_l_guided_01_mk1_macro.xml"
   },
   "turret_par_m_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire",
@@ -464,7 +473,8 @@
     "range": 7000,
     "reload_time": 1.5,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_par_m_dumbfire_01_mk1_macro.xml"
   },
   "turret_par_m_dumbfire_02_mk1_macro": {
     "ammunition": "dumbfire mediumdumbfire",
@@ -510,7 +520,8 @@
     "range": 5500,
     "reload_time": 0.46,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_par_m_dumbfire_02_mk1_macro.xml"
   },
   "turret_par_m_guided_01_mk1_macro": {
     "ammunition": "guided",
@@ -556,7 +567,8 @@
     "range": 4500,
     "reload_time": 2.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_par_m_guided_01_mk1_macro.xml"
   },
   "turret_par_m_guided_02_mk1_macro": {
     "ammunition": "guided mediumguided",
@@ -602,7 +614,8 @@
     "range": 12000,
     "reload_time": 17.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_par_m_guided_02_mk1_macro.xml"
   },
   "turret_spl_l_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire largedumbfire",
@@ -648,7 +661,8 @@
     "range": 6500,
     "reload_time": 1.2,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_split/assets/props/weaponsystems/dumbfire/macros/turret_spl_l_dumbfire_01_mk1_macro.xml"
   },
   "turret_spl_l_guided_01_mk1_macro": {
     "ammunition": "guided largeguided",
@@ -694,7 +708,8 @@
     "range": 12000,
     "reload_time": 1.0,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_split/assets/props/weaponsystems/guided/macros/turret_spl_l_guided_01_mk1_macro.xml"
   },
   "turret_spl_m_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire",
@@ -740,7 +755,8 @@
     "range": 7000,
     "reload_time": 1.5,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/weaponsystems/dumbfire/macros/turret_spl_m_dumbfire_01_mk1_macro.xml"
   },
   "turret_spl_m_dumbfire_02_mk1_macro": {
     "ammunition": "dumbfire mediumdumbfire",
@@ -786,7 +802,8 @@
     "range": 5500,
     "reload_time": 0.46,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/weaponsystems/dumbfire/macros/turret_spl_m_dumbfire_02_mk1_macro.xml"
   },
   "turret_spl_m_guided_01_mk1_macro": {
     "ammunition": "guided",
@@ -832,7 +849,8 @@
     "range": 4500,
     "reload_time": 2.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/weaponsystems/guided/macros/turret_spl_m_guided_01_mk1_macro.xml"
   },
   "turret_spl_m_guided_02_mk1_macro": {
     "ammunition": "guided mediumguided",
@@ -878,7 +896,8 @@
     "range": 12000,
     "reload_time": 17.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_split/assets/props/weaponsystems/guided/macros/turret_spl_m_guided_02_mk1_macro.xml"
   },
   "turret_tel_l_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire largedumbfire",
@@ -924,7 +943,8 @@
     "range": 6500,
     "reload_time": 1.2,
     "rotation_speed": 20.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_tel_l_dumbfire_01_mk1_macro.xml"
   },
   "turret_tel_l_guided_01_mk1_macro": {
     "ammunition": "guided largeguided",
@@ -970,7 +990,8 @@
     "range": 12000,
     "reload_time": 1.0,
     "rotation_speed": 20.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_tel_l_guided_01_mk1_macro.xml"
   },
   "turret_tel_m_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire",
@@ -1016,7 +1037,8 @@
     "range": 7000,
     "reload_time": 1.5,
     "rotation_speed": 60.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_tel_m_dumbfire_01_mk1_macro.xml"
   },
   "turret_tel_m_dumbfire_02_mk1_macro": {
     "ammunition": "dumbfire mediumdumbfire",
@@ -1062,7 +1084,8 @@
     "range": 5500,
     "reload_time": 0.46,
     "rotation_speed": 60.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/turret_tel_m_dumbfire_02_mk1_macro.xml"
   },
   "turret_tel_m_guided_01_mk1_macro": {
     "ammunition": "guided",
@@ -1108,7 +1131,8 @@
     "range": 4500,
     "reload_time": 2.0,
     "rotation_speed": 60.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_tel_m_guided_01_mk1_macro.xml"
   },
   "turret_tel_m_guided_02_mk1_macro": {
     "ammunition": "guided mediumguided",
@@ -1154,7 +1178,8 @@
     "range": 12000,
     "reload_time": 17.0,
     "rotation_speed": 60.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/turret_tel_m_guided_02_mk1_macro.xml"
   },
   "turret_ter_l_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire largedumbfire",
@@ -1200,7 +1225,8 @@
     "range": 6500,
     "reload_time": 1.2,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_terran/assets/props/weaponsystems/dumbfire/macros/turret_ter_l_dumbfire_01_mk1_macro.xml"
   },
   "turret_ter_l_guided_01_mk1_macro": {
     "ammunition": "guided largeguided",
@@ -1246,7 +1272,8 @@
     "range": 12000,
     "reload_time": 1.0,
     "rotation_speed": 30.0,
-    "size": "large"
+    "size": "large",
+    "source_path": "extensions/ego_dlc_terran/assets/props/weaponsystems/guided/macros/turret_ter_l_guided_01_mk1_macro.xml"
   },
   "turret_ter_m_dumbfire_01_mk1_macro": {
     "ammunition": "dumbfire",
@@ -1292,7 +1319,8 @@
     "range": 7000,
     "reload_time": 1.5,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/weaponsystems/dumbfire/macros/turret_ter_m_dumbfire_01_mk1_macro.xml"
   },
   "turret_ter_m_dumbfire_02_mk1_macro": {
     "ammunition": "dumbfire mediumdumbfire",
@@ -1338,7 +1366,8 @@
     "range": 5500,
     "reload_time": 0.46,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/weaponsystems/dumbfire/macros/turret_ter_m_dumbfire_02_mk1_macro.xml"
   },
   "turret_ter_m_guided_01_mk1_macro": {
     "ammunition": "guided",
@@ -1384,7 +1413,8 @@
     "range": 4500,
     "reload_time": 2.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/weaponsystems/guided/macros/turret_ter_m_guided_01_mk1_macro.xml"
   },
   "turret_ter_m_guided_02_mk1_macro": {
     "ammunition": "guided mediumguided",
@@ -1430,7 +1460,8 @@
     "range": 12000,
     "reload_time": 17.0,
     "rotation_speed": 100.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "extensions/ego_dlc_terran/assets/props/weaponsystems/guided/macros/turret_ter_m_guided_02_mk1_macro.xml"
   },
   "weapon_gen_m_dumbfire_01_mk1_macro": {
     "ammunition": "smalldumbfire dumbfire",
@@ -1476,7 +1507,8 @@
     "range": 9000,
     "reload_time": 4.5,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_m_dumbfire_01_mk1_macro.xml"
   },
   "weapon_gen_m_dumbfire_01_mk2_macro": {
     "ammunition": "smalldumbfire dumbfire",
@@ -1522,7 +1554,8 @@
     "range": 10000,
     "reload_time": 4.5,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_m_dumbfire_01_mk2_macro.xml"
   },
   "weapon_gen_m_dumbfire_02_mk1_macro": {
     "ammunition": "dumbfire smalldumbfire",
@@ -1568,7 +1601,8 @@
     "range": 2800,
     "reload_time": 0.25,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_m_dumbfire_02_mk1_macro.xml"
   },
   "weapon_gen_m_guided_01_mk1_macro": {
     "ammunition": "smallguided guided",
@@ -1614,7 +1648,8 @@
     "range": 6000,
     "reload_time": 6.0,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/weapon_gen_m_guided_01_mk1_macro.xml"
   },
   "weapon_gen_m_guided_01_mk2_macro": {
     "ammunition": "smallguided guided",
@@ -1660,7 +1695,8 @@
     "range": 6000,
     "reload_time": 6.0,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/guided/macros/weapon_gen_m_guided_01_mk2_macro.xml"
   },
   "weapon_gen_m_guided_02_mk1_macro": {
     "ammunition": "guided smallguided",
@@ -1706,7 +1742,8 @@
     "range": 12000,
     "reload_time": 17.0,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_m_guided_02_mk1_macro.xml"
   },
   "weapon_gen_m_torpedo_01_mk1_macro": {
     "ammunition": "smalltorpedo torpedo",
@@ -1752,7 +1789,8 @@
     "range": 9000,
     "reload_time": 30.0,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/torpedo/macros/weapon_gen_m_torpedo_01_mk1_macro.xml"
   },
   "weapon_gen_m_torpedo_01_mk2_macro": {
     "ammunition": "smalltorpedo torpedo",
@@ -1798,7 +1836,8 @@
     "range": 9000,
     "reload_time": 30.0,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/torpedo/macros/weapon_gen_m_torpedo_01_mk2_macro.xml"
   },
   "weapon_gen_m_torpedo_02_mk1_macro": {
     "ammunition": "torpedo smalltorpedo",
@@ -1844,7 +1883,8 @@
     "range": 5000,
     "reload_time": 14.0,
     "rotation_speed": 0.0,
-    "size": "medium"
+    "size": "medium",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_m_torpedo_02_mk1_macro.xml"
   },
   "weapon_gen_s_dumbfire_01_mk1_macro": {
     "ammunition": "smalldumbfire dumbfire",
@@ -1890,7 +1930,8 @@
     "range": 7000,
     "reload_time": 1.5,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_s_dumbfire_01_mk1_macro.xml"
   },
   "weapon_gen_s_dumbfire_01_mk2_macro": {
     "ammunition": "smalldumbfire dumbfire",
@@ -1936,7 +1977,8 @@
     "range": 8000,
     "reload_time": 1.5,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_s_dumbfire_01_mk2_macro.xml"
   },
   "weapon_gen_s_dumbfire_02_mk1_macro": {
     "ammunition": "dumbfire smalldumbfire",
@@ -1982,7 +2024,8 @@
     "range": 2800,
     "reload_time": 0.25,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_s_dumbfire_02_mk1_macro.xml"
   },
   "weapon_gen_s_guided_01_mk1_macro": {
     "ammunition": "smallguided guided",
@@ -2028,7 +2071,8 @@
     "range": 4500,
     "reload_time": 2.0,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/guided/macros/weapon_gen_s_guided_01_mk1_macro.xml"
   },
   "weapon_gen_s_guided_01_mk2_macro": {
     "ammunition": "smallguided guided",
@@ -2074,7 +2118,8 @@
     "range": 4500,
     "reload_time": 2.0,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/guided/macros/weapon_gen_s_guided_01_mk2_macro.xml"
   },
   "weapon_gen_s_guided_02_mk1_macro": {
     "ammunition": "guided smallguided",
@@ -2120,7 +2165,8 @@
     "range": 12000,
     "reload_time": 10.0,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_s_guided_02_mk1_macro.xml"
   },
   "weapon_gen_s_torpedo_01_mk1_macro": {
     "ammunition": "smalltorpedo torpedo",
@@ -2166,7 +2212,8 @@
     "range": 3000,
     "reload_time": 10.0,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/torpedo/macros/weapon_gen_s_torpedo_01_mk1_macro.xml"
   },
   "weapon_gen_s_torpedo_01_mk2_macro": {
     "ammunition": "smalltorpedo torpedo",
@@ -2212,7 +2259,8 @@
     "range": 3000,
     "reload_time": 10.0,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/torpedo/macros/weapon_gen_s_torpedo_01_mk2_macro.xml"
   },
   "weapon_gen_s_torpedo_02_mk1_macro": {
     "ammunition": "torpedo smalltorpedo",
@@ -2258,7 +2306,8 @@
     "range": 5000,
     "reload_time": 14.0,
     "rotation_speed": 0.0,
-    "size": "small"
+    "size": "small",
+    "source_path": "assets/props/weaponsystems/dumbfire/macros/weapon_gen_s_torpedo_02_mk1_macro.xml"
   },
   "weapon_ter_l_flagship_01_mk1_macro": {
     "ammunition": "ship_ter_l_flagship_01",
@@ -2304,6 +2353,7 @@
     "range": 10000,
     "reload_time": 0.25,
     "rotation_speed": 0.0,
-    "size": ""
+    "size": "",
+    "source_path": "extensions/ego_dlc_timelines/assets/props/weaponsystems/capital/macros/weapon_ter_l_flagship_01_mk1_macro.xml"
   }
 }

@@ -217,6 +217,7 @@ class MacroDB:
                 comp_props = self.load_component_properties(comp_name)
                 properties.update(comp_props)
 
+            properties['source_path'] = path
             macro = Macro(macro_name, macro_type, properties)
 
             connections_xpath = './connections/connection[@ref]'

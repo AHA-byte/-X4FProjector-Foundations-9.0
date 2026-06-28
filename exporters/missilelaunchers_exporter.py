@@ -17,6 +17,7 @@ def tabular_generator(missilelaunchers):
         'makerrace',
         # 'description',  # every value is "No information available"
         'size',
+        'source_path',
         'missile_damage_hull',
         'missile_damage_shield',
         'missile_hull',

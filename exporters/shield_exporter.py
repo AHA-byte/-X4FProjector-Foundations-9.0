@@ -13,6 +13,7 @@ def tabular_generator(shields):
         'makerrace',
         # 'description', # every value is "No information available"
         'capacity',
+        'source_path',
         'size',
         'recharge_rate',
         'recharge_delay',

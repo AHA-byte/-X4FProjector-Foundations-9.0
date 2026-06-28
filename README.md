@@ -117,7 +117,9 @@ to the current directory if not specified.
 * `-f EXPORT_FORMAT, --format EXPORT_FORMAT`. Format to export data as.
 Defaults to CSV if not specified. Supported values:
   * **csv**. Creates tabular .csv files that can be loaded in Excel.
+    Tabular exports now include a `source_path` column for each object.
   * **json**. Creates structured .json files.
+    Structured exports now include `source_path` for each object.
   * **yaml**. Creates structured .yaml files.
 * `all`. Export all game data that this script can read.
 * `engines`. Export engine and thruster data. Will create a `engines.{csv,json,
