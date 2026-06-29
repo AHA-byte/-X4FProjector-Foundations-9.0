@@ -238,3 +238,5 @@ issue if you have any problems.
 * Suggest new features or show interest in ones already suggested. I will be
 more likely to implement features that are highly demanded.
 * Suggest improvement to the source code or documentation.
+
+python ./X4FProjector.py -g "C:\Games\X4 - Foundations" export all -d ./x4_data -f json

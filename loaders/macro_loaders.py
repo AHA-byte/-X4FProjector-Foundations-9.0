@@ -463,6 +463,10 @@ def component_parser(comp_name, comp_type, comp_node):
         props['num_countermeasures'] = glen(
             find_nodes_with_tag(comp_node, conns_xpath, 'countermeasures')
         )
+        props['engine_slots'] = get_connection_offsets(comp_node, conns_xpath, 'engine')
+        props['shield_slots'] = get_connection_offsets(comp_node, conns_xpath, 'shield')
+        props['weapon_slots'] = get_connection_offsets(comp_node, conns_xpath, 'weapon')
+        props['turret_slots'] = get_connection_offsets(comp_node, conns_xpath, 'turret')
     elif comp_type == 'storage':
         pass
     elif comp_type == 'shieldgenerator':
@@ -514,6 +518,36 @@ def component_parser(comp_name, comp_type, comp_node):
 
     return props
 
+def get_connection_offsets(comp_node, conns_xpath, tag):
+    """Extracts position and rotation data for connections matching a tag."""
+    slots = []
+    
+    for node in find_nodes_with_tag(comp_node, conns_xpath, tag):
+        slot_data = {
+            'name': node.get('name', 'unknown'),
+            'tags': node.get('tags', ''),
+            'position': {'x': 0.0, 'y': 0.0, 'z': 0.0},
+            'quaternion': {'qx': 0.0, 'qy': 0.0, 'qz': 0.0, 'qw': 0.0}
+        }
+        
+        # Find offset/position child node
+        pos_node = node.find('./offset/position')
+        if pos_node is not None:
+            slot_data['position']['x'] = float(pos_node.get('x'))
+            slot_data['position']['y'] = float(pos_node.get('y'))
+            slot_data['position']['z'] = float(pos_node.get('z'))
+            
+        # Find offset/quaternion child node
+        quat_node = node.find('./offset/quaternion')
+        if quat_node is not None:
+            slot_data['quaternion']['qx'] = float(quat_node.get('qx'))
+            slot_data['quaternion']['qy'] = float(quat_node.get('qy'))
+            slot_data['quaternion']['qz'] = float(quat_node.get('qz'))
+            slot_data['quaternion']['qw'] = float(quat_node.get('qw'))
+            
+        slots.append(slot_data)
+        
+    return slots
 
 def ship_loader(floader, lresolver, macro_db, ext_name):
     """Loads ship game macro files and returns ship data.
