@@ -130,7 +130,7 @@ def macro_parser(macro_id, macro_type, prop_node, lresolver):
         props['boost_release'] = float(boost.get('release', 0))
         props['boost_attack'] = float(boost.get('attack', 0))
         # --- NEW 9.0 EMPIRE UPDATE ATTRIBUTES ---
-
+        props['boost_charge'] = float(boost.get('charge', 0))
         props['boost_acceleration'] = float(boost.get('acceleration', 0))
 
         travel = get_xpath_attribs(prop_node, './travel', {})
