@@ -239,5 +239,5 @@ issue if you have any problems.
 more likely to implement features that are highly demanded.
 * Suggest improvement to the source code or documentation.
 
-example1:
+example12:
 python ./X4FProjector.py -g "C:\Games\X4 - Foundations" export all -d ./x4_data -f json
