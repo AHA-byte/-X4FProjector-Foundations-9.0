@@ -242,4 +242,4 @@ more likely to implement features that are highly demanded.
 example:
 python ./X4FProjector.py -g "C:\Games\X4 - Foundations" export all -d ./x4_data -f json
 
-added module coordinates on ships
+added module coordinates on shipsasd a
