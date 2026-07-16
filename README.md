@@ -243,4 +243,3 @@ example:
 python ./X4FProjector.py -g "C:\Games\X4 - Foundations" export all -d ./x4_data -f json
 
 added module coordinates on ships
-asd
