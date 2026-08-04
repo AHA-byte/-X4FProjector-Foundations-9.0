@@ -1,6 +1,7 @@
 # X4FProjector
 
-Fork of the original repository [bno1/X4FProjector](https://github.com/bno1/X4FProjector).
+Fork of the original repository by bno1
+[bno1/X4FProjector](https://github.com/bno1/X4FProjector).
 The original project’s last commit was seven years ago, and it no longer works with X4 Foundations 9.0.
 This fork updates the tool for 9.0 compatibility.
 
