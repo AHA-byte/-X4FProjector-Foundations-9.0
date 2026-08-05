@@ -6,6 +6,7 @@
 
 """Main function for the project. See the help message."""
 import numpy as np
+import time
 import argparse
 import logging
 import os
