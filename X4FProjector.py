@@ -5,7 +5,7 @@
 # pylint: disable=invalid-name
 
 """Main function for the project. See the help message."""
-
+import numpy as np
 import argparse
 import logging
 import os
