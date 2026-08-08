@@ -18,7 +18,7 @@ import lang
 import loaders
 import macros
 
-
+x=local
 LOG = logging.getLogger(__name__)
 
 
